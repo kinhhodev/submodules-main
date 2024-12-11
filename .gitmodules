@@ -1,0 +1,3 @@
+[submodule "submodules-subproject1"]
+	path = submodules-subproject1
+	url = https://github.com/kinhhodev/submodules-subproject1.git
